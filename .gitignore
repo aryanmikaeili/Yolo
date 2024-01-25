@@ -1,0 +1,5 @@
+data/
+small_data/
+*.zip
+.idea/
+__pycache__/
